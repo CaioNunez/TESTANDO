@@ -3,3 +3,4 @@
 'caiote vei'
 'caraca aprendi'
 'agora vai'
+'tete'
